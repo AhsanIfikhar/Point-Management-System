@@ -1,0 +1,57 @@
+E:\University Management System\University Management System\bin\Debug\University Management System.exe.config
+E:\University Management System\University Management System\bin\Debug\University Management System.exe
+E:\University Management System\University Management System\bin\Debug\University Management System.pdb
+E:\University Management System\University Management System\obj\Debug\University_Management_System.Properties.Resources.resources
+E:\University Management System\University Management System\obj\Debug\University Management System.csproj.GenerateResource.cache
+E:\University Management System\University Management System\obj\Debug\University Management System.exe
+E:\University Management System\University Management System\obj\Debug\University Management System.pdb
+E:\University Management System\University Management System\obj\Debug\University_Management_System.Home.resources
+E:\University Management System\University Management System\obj\Debug\University_Management_System.Transport_Management_System.resources
+E:\University Management System\University Management System\obj\Debug\University_Management_System.ManagerTransport.resources
+E:\University Management System\University Management System\obj\Debug\University_Management_System.MyDataManipulation.resources
+E:\University Management System\University Management System\obj\Debug\University_Management_System.VerifyStudent.resources
+E:\University Management System\University Management System\obj\Debug\University_Management_System.AddmissionforPoint.resources
+E:\University Management System\University Management System\obj\Debug\University_Management_System.GeneralInformation.resources
+E:\University Management System\University Management System\obj\Debug\University_Management_System.PointsRoutes.resources
+E:\University Management System\University Management System\obj\Debug\University_Management_System.Point_sDriverContacts.resources
+E:\University Management System\University Management System\obj\Debug\University_Management_System.AddingPointFee.resources
+E:\University Management System\University Management System\obj\Debug\University_Management_System.AdminMainPage.resources
+E:\University Management System\University Management System\obj\Debug\University_Management_System.EditPointDetails.resources
+D:\University Management System\University Management System\bin\Debug\University Management System.exe.config
+D:\University Management System\University Management System\bin\Debug\University Management System.exe
+D:\University Management System\University Management System\bin\Debug\University Management System.pdb
+D:\University Management System\University Management System\bin\Debug\AlphaBlendTextBox.dll
+D:\University Management System\University Management System\obj\Debug\University Management System.csprojAssemblyReference.cache
+D:\University Management System\University Management System\obj\Debug\University_Management_System.AdminMainPage.resources
+D:\University Management System\University Management System\obj\Debug\University_Management_System.AddingPointFee.resources
+D:\University Management System\University Management System\obj\Debug\University_Management_System.AddmissionforPoint.resources
+D:\University Management System\University Management System\obj\Debug\University_Management_System.EditPointDetails.resources
+D:\University Management System\University Management System\obj\Debug\University_Management_System.GeneralInformation.resources
+D:\University Management System\University Management System\obj\Debug\University_Management_System.MyDataManipulation.resources
+D:\University Management System\University Management System\obj\Debug\University_Management_System.Home.resources
+D:\University Management System\University Management System\obj\Debug\University_Management_System.ManagerTransport.resources
+D:\University Management System\University Management System\obj\Debug\University_Management_System.Point_sDriverContacts.resources
+D:\University Management System\University Management System\obj\Debug\University_Management_System.PointsRoutes.resources
+D:\University Management System\University Management System\obj\Debug\University_Management_System.Properties.Resources.resources
+D:\University Management System\University Management System\obj\Debug\University_Management_System.Transport_Management_System.resources
+D:\University Management System\University Management System\obj\Debug\University_Management_System.VerifyStudent.resources
+D:\University Management System\University Management System\obj\Debug\University Management System.csproj.GenerateResource.cache
+D:\University Management System\University Management System\obj\Debug\University Management System.csproj.CopyComplete
+D:\University Management System\University Management System\obj\Debug\University Management System.exe
+D:\University Management System\University Management System\obj\Debug\University Management System.pdb
+D:\University Management System\University Management System\obj\Debug\University_Management_System.EditDriver_PointInfo.resources
+D:\University Management System\University Management System\obj\Debug\University_Management_System.Teacher_s_Page.resources
+D:\University Management System\University Management System\obj\Debug\University_Management_System.CheckStudentMembership.resources
+D:\University Management System\University Management System\obj\Debug\University_Management_System.EditStudentRecords.resources
+D:\University Management System\University Management System\obj\Debug\University_Management_System.TeacherLogin.resources
+D:\University Management System\University Management System\obj\Debug\University_Management_System.DriverConatacts.resources
+D:\University Management System\University Management System\obj\Debug\University_Management_System.PointRout.resources
+E:\University Management System\University Management System\obj\Debug\University_Management_System.CheckStudentMembership.resources
+E:\University Management System\University Management System\obj\Debug\University_Management_System.DriverConatacts.resources
+E:\University Management System\University Management System\obj\Debug\University_Management_System.EditDriver_PointInfo.resources
+E:\University Management System\University Management System\obj\Debug\University_Management_System.EditStudentRecords.resources
+E:\University Management System\University Management System\obj\Debug\University_Management_System.PointRout.resources
+E:\University Management System\University Management System\obj\Debug\University_Management_System.Teacher_s_Page.resources
+E:\University Management System\University Management System\obj\Debug\University_Management_System.TeacherLogin.resources
+E:\University Management System\University Management System\obj\Debug\University Management System.csprojAssemblyReference.cache
+E:\University Management System\University Management System\obj\Debug\University Management System.csproj.CopyComplete

@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "University Management System", "University Management System.csproj", "{DBEEDC3C-4A4F-4238-945D-A613C36EE5FE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0B7C8A79-4986-4F22-B8BF-90D48188E3E1}"
+	ProjectSection(SolutionItems) = preProject
+		ClassManagerTransport.cs = ClassManagerTransport.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBEEDC3C-4A4F-4238-945D-A613C36EE5FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBEEDC3C-4A4F-4238-945D-A613C36EE5FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBEEDC3C-4A4F-4238-945D-A613C36EE5FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBEEDC3C-4A4F-4238-945D-A613C36EE5FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2F81D7C-E4B2-4347-9015-C2703850FD05}
+	EndGlobalSection
+EndGlobal
